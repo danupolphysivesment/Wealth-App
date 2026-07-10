@@ -1,0 +1,110 @@
+{
+  "as_of": "2026-07-10",
+  "intro_note": "Snapshot compiled from Google Trends search-interest data and the financial press in the week of 6–10 July 2026.",
+  "topics": [
+    {
+      "icon": "🤖",
+      "title": "Is AI a bubble?",
+      "term": "AI bubble",
+      "what": "The debate over whether AI-driven mega-cap valuations have run ahead of what future earnings can deliver.",
+      "why_now": "Searches for “AI bubble” hit their 12-month high in late May–June 2026. Bank of America reaffirmed a year-end S&P 500 target about 5% below current levels, warning that “speculation is hitting extreme levels”, while BlackRock's weekly commentary frames the question as whether extraordinary future earnings can persist — not just today's valuations.",
+      "for_you": "This is concentration risk in disguise: a handful of AI names now drive index returns. A broad, diversified core caps how much one theme can hurt you — and the 🌪️ Stress Lab's “Tech Bubble Burst” scenario shows exactly what that would look like for your mix.",
+      "related_tab": "🌪️ Stress Lab",
+      "sources": ["Fortune / Bank of America", "BlackRock Investment Institute"]
+    },
+    {
+      "icon": "✂️",
+      "title": "When does the Fed cut?",
+      "term": "rate cut",
+      "what": "Markets are trading week-to-week on the odds that the Federal Reserve lowers interest rates.",
+      "why_now": "Weak June jobs data revived rate-cut bets and lifted the S&P 500, Dow and Nasdaq; this week's Fed minutes are the next catalyst. Rate-hike worries have receded, supporting bonds and gold.",
+      "for_you": "Rate cuts tend to lift bond prices — that's your Fixed Income sleeve working — and support equity valuations. They also cut cash yields, which is why staying invested usually beats waiting in deposits. See how your bond sleeve behaved in 📜 Track Record.",
+      "related_tab": "📜 Track Record",
+      "sources": ["Seeking Alpha weekly recap", "Reuters", "Bloomberg"]
+    },
+    {
+      "icon": "🥇",
+      "title": "Gold vs the everything-rally",
+      "term": "gold price",
+      "what": "Gold has lagged a strong equity market all year — and the gap has people talking.",
+      "why_now": "Stocks are up ~9% in 2026 while gold is down ~3% — a divergence one BofA analysis called the most extreme since 1999. Gold recently touched two-week highs on rate-cut hopes but was capped by a firmer dollar.",
+      "for_you": "Diversifiers are supposed to zig when markets zag — lagging during a rally is the seatbelt doing nothing on a smooth road, not a reason to remove it. Rebalancing discipline (🏠 Overview drift alert) systematically buys the laggard — historically the hard but right move.",
+      "related_tab": "🏠 Overview",
+      "sources": ["GoldSilver / BofA", "Reuters", "Bloomberg"]
+    },
+    {
+      "icon": "₿",
+      "title": "Crypto winter, again",
+      "term": "bitcoin",
+      "what": "Digital assets have been in a deep drawdown since the August 2025 peak.",
+      "why_now": "Searches like “is Bitcoin dead” reached their highest level since the 2022 crypto winter earlier this year. Bitcoin ETFs have swung between long outflow streaks and tentative inflows, and some major crypto stocks are down ~90% from their 2025 listing prices.",
+      "for_you": "A textbook lesson in satellite sizing: speculative assets belong — if at all — in a sleeve small enough that a 70–90% drawdown cannot sink the plan. The 🧱 Fund Lab shows exactly how much risk each satellite adds to your whole portfolio.",
+      "related_tab": "🧱 Fund Lab",
+      "sources": ["CoinDesk", "Investing News Network", "Cryptorank"]
+    },
+    {
+      "icon": "🚢",
+      "title": "Tariffs & policy whiplash",
+      "term": "tariffs",
+      "what": "Trade policy, tax cuts and oil diplomacy out of Washington remain a top driver of market swings.",
+      "why_now": "Analysts list tariffs and tax policy among the main forces shaping 2026 markets. An interim US–Iran agreement has pulled oil prices down — but is widely described as fragile, keeping energy and defence names volatile.",
+      "for_you": "Policy shocks are unpredictable in timing but rehearsable in impact: the 🌪️ Stress Lab's “Geopolitical Shock” scenario shows your portfolio's sensitivity, and global diversification cushions single-country policy risk.",
+      "related_tab": "🌪️ Stress Lab",
+      "sources": ["U.S. Bank market outlook", "U.S. News"]
+    },
+    {
+      "icon": "🏠",
+      "title": "Housing stress signals",
+      "term": "mortgage rates",
+      "what": "Search data is flashing early signs of strain in household real estate.",
+      "why_now": "Google searches for “can't sell house” hit a record this spring, and “help with mortgage” searches approached levels last seen around the Great Recession — analysts note these are stress signals worth watching, not yet a crisis.",
+      "for_you": "Two takeaways for wealth planning: keep a liquidity buffer outside the portfolio so you never sell investments (or property) under duress, and prefer fund-based property exposure — it rebalances in a click; a building doesn't.",
+      "related_tab": "🎯 Allocation Advisor",
+      "sources": ["Moneywise", "Investopedia"]
+    }
+  ],
+  "news": [
+    {
+      "headline": "S&P 500 to lose much of 2026's gains as 'speculation is hitting extreme levels'",
+      "summary": "Bank of America reaffirmed a year-end S&P 500 target of 7,100 — about 5% below the week's close — citing extreme speculation in AI-linked names.",
+      "source": "Fortune",
+      "date": "5 Jul 2026",
+      "url": "https://fortune.com/2026/07/05/stock-market-outlook-sp500-target-7100-ai-boom-speculation-extreme-levels/"
+    },
+    {
+      "headline": "Gold is down 3% this year while stocks are up 9% — the widest divergence since 1999",
+      "summary": "A BofA analysis flags the gold-vs-equities gap at its most extreme since the dot-com era, a pattern that historically preceded regime shifts.",
+      "source": "GoldSilver / BofA",
+      "date": "7 Jul 2026",
+      "url": "https://goldsilver.com/industry-news/goldsilver-news/gold-vs-sp500-2026-bofa-warning/"
+    },
+    {
+      "headline": "Rate-cut hopes lift markets while tech remains volatile",
+      "summary": "The S&P 500, Dow and Nasdaq rose on Fed rate-cut bets after weak jobs data; attention turns to this week's Fed minutes.",
+      "source": "Seeking Alpha",
+      "date": "5 Jul 2026",
+      "url": "https://seekingalpha.com/news/4611507-trending-stocks-this-week-as-rate-cut-hopes-lift-markets-while-tech-remains-volatile"
+    },
+    {
+      "headline": "Gold pulls back from two-week high on stronger dollar; Fed minutes on tap",
+      "summary": "Bullion retreated as the dollar firmed, though signs of a cooling US economy limited losses ahead of the Fed minutes.",
+      "source": "Reuters",
+      "date": "6 Jul 2026",
+      "url": "https://www.reuters.com/world/india/gold-trades-near-two-week-high-cooling-us-rate-hike-bets-2026-07-06/"
+    },
+    {
+      "headline": "SpaceX joins the Nasdaq 100 as Q2 earnings season begins",
+      "summary": "A landmark index addition headlines a week that also brings early second-quarter results from Pepsi and Delta.",
+      "source": "Investopedia",
+      "date": "6 Jul 2026",
+      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-spacex-joins-nasdaq-100-index-second-quarter-results-start-to-arrive-spcx-12011430"
+    },
+    {
+      "headline": "Bitcoin ETFs end a 10-day outflow streak",
+      "summary": "A tentative return of inflows breaks the longest outflow run of the crypto winter, while major crypto stocks remain deep underwater.",
+      "source": "Investing News Network",
+      "date": "9 Jul 2026",
+      "url": "https://investingnews.com/cryptocurrency-market-recap/"
+    }
+  ]
+}
